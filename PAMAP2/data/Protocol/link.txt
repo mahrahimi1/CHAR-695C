@@ -1,0 +1,2 @@
+Data can be obtained from:
+http://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring
